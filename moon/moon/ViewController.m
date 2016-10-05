@@ -19,6 +19,7 @@
    
     NSLog(@"wakaka...");
 
+    NSLog(@"2222");
 }
 
 - (void)didReceiveMemoryWarning {
